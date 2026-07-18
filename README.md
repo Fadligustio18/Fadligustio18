@@ -13,17 +13,17 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <a href="https://github.com/fadligustio18/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Fadligustio18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Fadligustio18&theme=blueberry"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fadligustio18&layout=compact&theme=blueberry"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Fadligustio18&theme=blueberry&include_all_commits=true&count_private=true"/>
 </p>
 
 
