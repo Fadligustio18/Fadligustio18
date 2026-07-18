@@ -14,12 +14,27 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/fadligustio/github-readme-streak-stats">
+  <a href="https://github.com/fadligustio18/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Fadligustio18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 <p align="center">
-  <img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)"
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-fadligustio18.vercel.app/api/top-langs/?username=fadligustio18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=oifhdetrfgefioi&exclude_repo=aetheroz" alt="Most Used Languages" width="390" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadligustio12&theme=tokyonight" alt="GitHub Profile Summary" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadligustio18&theme=tokyonight&hide_border=true" alt="Contribution Graph" height="300" />
+  </a>
 </p>
 
 
