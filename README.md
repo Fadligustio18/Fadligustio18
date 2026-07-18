@@ -5,7 +5,11 @@
 
 <h2>💻 Tech Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=andoridstudio,css,html,js,docker,cs,kotlin,react" />
+  </a>
+</p>
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
