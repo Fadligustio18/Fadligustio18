@@ -22,9 +22,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fadligustio18&layout=compact&theme=blueberry"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Fadligustio18&theme=blueberry&include_all_commits=true&count_private=true"/>
-</p>
 
 
 <p align="center">
