@@ -19,24 +19,8 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-rilltome.vercel.app/api/top-langs/?username=fadligustio&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" alt="Most Used Languages" width="390" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadligustio&theme=tokyonight" alt="GitHub Profile Summary" />
-  </a>
-</p>
 
 
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadligustio&theme=tokyonight&hide_border=true" alt="Contribution Graph" height="300" />
-  </a>
-</p>
 
 <h2>🌐 Socials</h2>
 
