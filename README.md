@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=andoridstudio,css,html,js,docker,cs,kotlin,react" />
+    <img src="https://skillicons.dev/icons?i=andoridstudio,css,html,js,docker,cs,kotlin,react,gradle&theme=dark" />
   </a>
 </p>
 
