@@ -21,17 +21,12 @@
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadligustio18&theme=tokyonight&hide_border=true" alt="Contribution Graph" height="300" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadligustio18&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="300" />
   </a>
 </p>
-
-
-
 
 <h2>🌐 Socials</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fadligustio) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@fadligustio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fadligustio@gmail.com)
-
-
 
 </div>
