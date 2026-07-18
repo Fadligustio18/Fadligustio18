@@ -19,11 +19,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-Fadligustio18.vercel.app/api/top-langs/?username=Fadligustio18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=oifhdetrfgefioi&exclude_repo=aetheroz" alt="Most Used Languages" width="390" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
