@@ -18,6 +18,9 @@
     <img src="https://streak-stats.demolab.com/?user=Fadligustio18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+<p align="center">
+  <img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)"
+</p>
 
 
 
