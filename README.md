@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-rilltome.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=oifhdetrfgefioi&exclude_repo=aetheroz" alt="Most Used Languages" width="390" />
+    <img src="https://github-readme-stats-fadligustio18.vercel.app/api/top-langs/?username=Fadligustio18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=oifhdetrfgefioi&exclude_repo=aetheroz" alt="Most Used Languages" width="390" />
   </a>
 </p>
 
