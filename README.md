@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/fadligustio18/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-fadligustio18.vercel.app/api/top-langs/?username=fadligustio18&layout=compact&theme=tokyo-night&hide_border=true"alt="Most Used Languages" width="390" />
   </a>
 </p>
