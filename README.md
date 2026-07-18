@@ -1,8 +1,7 @@
 <div align="center">
+<h2># Hi 👋 I'm Fadli Gustio</h2>
 
-<h2>🌐 Socials</h2>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fadligustio) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@fadligustio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fadligustio@gmail.com)
+💻 Android Developer
 
 <h2>💻 Tech Stack</h2>
 
@@ -16,8 +15,9 @@
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fadligustio18&layout=compact&theme=blueberry"/>
 
-<h2>🏆 GitHub Trophies</h2>
+<h2>🌐 Socials</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Fadligustio18&theme=radical"/>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fadligustio) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@fadligustio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fadligustio@gmail.com)
+
 
 </div>
