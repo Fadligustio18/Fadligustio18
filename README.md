@@ -11,8 +11,11 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=Fadligustio18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fadligustio18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![](https://streak-stats.demolab.com/?user=Fadligustio18&theme=blue-green&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fadligustio18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fadligustio18&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Socials:
