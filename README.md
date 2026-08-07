@@ -14,15 +14,6 @@
 <h2>📊 GitHub Stats</h2>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?username=Fadligustio18&theme=blueberry"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fadligustio18&layout=compact&theme=blueberry"/>
-</p>
-
-
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
