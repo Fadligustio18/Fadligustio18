@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fadligustio18&theme=blueberry"/>
+  <img src="https://streak-stats.demolab.com/?username=Fadligustio18&theme=blueberry"/>
 </p>
 
 <p align="center">
@@ -31,9 +31,6 @@
 </p>
 
 
-<h2>🌐 Socials</h2>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fadligustio) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fadligustio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fadligustio@gmail.com)
 
 
 
