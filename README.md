@@ -16,7 +16,7 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fadligustio18&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fadligustio18&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=Fadligustio18&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fadligustio) 
