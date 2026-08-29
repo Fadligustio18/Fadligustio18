@@ -1,11 +1,5 @@
 <div >
- <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=200&section=header&text=Halo,%20Saya%20Fadli%20Gustio&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</p>
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Mobile+Developer+-+Frontend" alt="Typing SVG" />
+<!-- Banner --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:74C69D&height=200&section=header&text=Halo,%20Saya%20Fadli%20Gustio&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/> </p> <!-- Typing animation --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D6A4F&center=true&vCenter=true&width=500&lines=Mobile+Developer+-+Frontend" alt="Typing SVG" /> </p>
 </p>
 
 
