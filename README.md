@@ -1,5 +1,5 @@
-<div align="start">
-  <h1 style="bold">Fadli Gustio</h1>
+<div class="typewriter">
+  <h1>Fadli Gustio</h1>
 </div>
 
 <div align="start">
