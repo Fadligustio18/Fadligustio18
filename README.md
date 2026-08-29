@@ -17,6 +17,13 @@
 
 <img src="https://gitglance-eight.vercel.app/api/combined?username=Fadligustio18&style=aurora&theme=forest" alt="GitHub stats" />
 
+
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=100&section=footer" width="100%"/>
+</p>
+
 </div>
 
 
