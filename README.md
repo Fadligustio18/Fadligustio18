@@ -18,11 +18,12 @@
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
+<div align="center">
 <img src="https://gitglance-eight.vercel.app/api/activity?username=Fadligustio18&style=vercel-lines&theme=monochrome" alt="GitHub stats" />
 
 <img src="https://gitglance-eight.vercel.app/api/combined?username=Fadligustio18&style=vercel-lines&theme=vercel" alt="GitHub stats" />
+</div>
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Fadligustio18&label=Profile%20Views&color=6366F1&style=for-the-badge" /> </p>
