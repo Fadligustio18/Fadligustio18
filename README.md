@@ -1,4 +1,4 @@
-<div align="start">
+<div >
  <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=200&section=header&text=Halo,%20Saya%20Fadli%20Gustio&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/>
@@ -10,12 +10,12 @@
 </div>
 
 <div align="start">
-### 👋 Tentang Saya
+#**Tentang Saya**
  
 - 💻 Mobile Developer di bagian **Frontend**
 - 🌱 Sedang belajar **Kotlin Native** dan **Retrofit** untuk konsumsi API
 - 🎯 Ke depannya ingin memperdalam **Backend** dan menjadi **Full-Stack Developer**
-- ⚡ Suka **berolahraga**, makan, dan berkumpul bareng teman-teman
+- ⚡ Suka **berolahraga**, **makan**, dan **nongkrong**
 ---
 
 #  Tech Stack:
