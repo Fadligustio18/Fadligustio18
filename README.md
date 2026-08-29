@@ -21,8 +21,9 @@
 
 
 
-<!-- Footer -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=6366F1&style=for-the-badge" /> </p> <!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74C69D,100:1B4332&height=100&section=footer" width="100%"/> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Fadligustio18&label=Profile%20Views&color=6366F1&style=for-the-badge" /> </p>
+<!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74C69D,100:1B4332&height=100&section=footer" width="100%"/> </p>
 
 </div>
 
