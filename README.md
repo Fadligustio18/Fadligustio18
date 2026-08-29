@@ -7,23 +7,24 @@
   <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E1DCC9&center=true&vCenter=true&width=500&lines=Mobile+Developer+-+Frontend" alt="Typing SVG" /> </p>
 </p>
 
-
+---
 - 👨🏼‍🦱 i'm 19 years old Mobile Developer From Indonesia
 - 💻 **FrontEnd**
 - 🌱 Currently studying **Kotlin Native** and **Retrofit** 
 - 🎯 My goal is to become a full-stack developer.
 - ⚡ My hobbies are exercising, eating, and hanging out.
-
+---
 
 #  Tech Stack:
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-  ---
+---
 
 
 <img src="https://gitglance-eight.vercel.app/api/combined?username=Fadligustio18&style=vercel-lines&theme=vercel" alt="GitHub stats" />
 
+---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Fadligustio18&label=Profile%20Views&color=6366F1&style=for-the-badge" /> </p>
 
 <!-- Footer -->
