@@ -1,4 +1,4 @@
-<div class="typewriter">
+<div align="start">
   <h1>Fadli Gustio</h1>
 </div>
 
