@@ -18,7 +18,7 @@
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
+---
 <div align="center">
 <img src="https://gitglance-eight.vercel.app/api/activity?username=Fadligustio18&style=vercel-lines&theme=monochrome" alt="GitHub stats" />
 
