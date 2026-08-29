@@ -5,8 +5,8 @@
 
 - 👨🏼‍🦱 i'm 19 years old Mobile Developer From Indonesia
 - 💻 **FrontEnd**
-- 🌱 Now Lern **Kotlin Native** and **Retrofit** 
-- 🎯 My Future Full-Stack
+- 🌱 Currently studying **Kotlin Native** and **Retrofit** 
+- 🎯 My goal is to become a full-stack developer.
 - ⚡ My hobbies are exercising, eating, and hanging out.
 
 
