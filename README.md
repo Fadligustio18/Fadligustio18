@@ -1,5 +1,10 @@
 <div >
-<!-- Banner --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,100:4169E1&height=200&section=header&text=Hi,%20Fadli%20Gustio&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/> </p> <!-- Typing animation --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=191970&center=true&vCenter=true&width=500&lines=Mobile+Developer+-+Frontend" alt="Typing SVG" /> </p>
+<!-- Banner --> 
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F150C&height=200&section=header&text=Hi,%20Fadli%20Gustio&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/> 
+  </p> 
+  <!-- Typing animation --> 
+  <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=191970&center=true&vCenter=true&width=500&lines=Mobile+Developer+-+Frontend" alt="Typing SVG" /> </p>
 </p>
 
 
@@ -17,13 +22,12 @@
   ---
 
 
-<img src="https://gitglance-eight.vercel.app/api/combined?username=Fadligustio18&style=aurora&theme=forest" alt="GitHub stats" />
-
-
-
+<img src="https://gitglance-eight.vercel.app/api/combined?username=Fadligustio18&style=vercel-lines&theme=vercel" alt="GitHub stats" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Fadligustio18&label=Profile%20Views&color=6366F1&style=for-the-badge" /> </p>
-<!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,100:4169E1&height=100&section=footer" width="100%"/> </p>
+
+<!-- Footer -->
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F150C&height=100&section=footer" width="100%"/> </p>
 
 </div>
 
