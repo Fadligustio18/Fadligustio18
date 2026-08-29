@@ -1,5 +1,12 @@
 <div align="start">
-  <h1>Fadli Gustio</h1>
+ <!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=200&section=header&text=Halo,%20Saya%20Fadli%20Gustio&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Mobile+Developer+-+Frontend;Belajar+Kotlin+Native+%26+Retrofit;Menuju+Full+Stack+Developer" alt="Typing SVG" />
+</p>
 </div>
 
 <div align="start">
