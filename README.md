@@ -1,4 +1,4 @@
-<div align="start">
+<div align="start" style="bold">
   <h1>Fadli Gustio</h1>
 </div>
 
