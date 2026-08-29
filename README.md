@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F150C&height=200&section=header&text=Hi,%20Fadli%20Gustio&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/> 
   </p> 
   <!-- Typing animation --> 
-  <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=191970&center=true&vCenter=true&width=500&lines=Mobile+Developer+-+Frontend" alt="Typing SVG" /> </p>
+  <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=412D15&center=true&vCenter=true&width=500&lines=Mobile+Developer+-+Frontend" alt="Typing SVG" /> </p>
 </p>
 
 
