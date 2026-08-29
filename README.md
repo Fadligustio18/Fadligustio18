@@ -20,7 +20,7 @@
 
 ---
 <div align="center">
-<img src="https://gitglance-eight.vercel.app/api/activity?username=Fadligustio18&style=vercel-lines&theme=monochrome" alt="GitHub stats" />
+<img src="https://gitglance-eight.vercel.app/api/activity?username=Fadligustio18&style=vercel-lines&theme=dark" alt="GitHub stats" />
 
 <img src="https://gitglance-eight.vercel.app/api/combined?username=Fadligustio18&style=vercel-lines&theme=vercel" alt="GitHub stats" />
 </div>
