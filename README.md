@@ -7,11 +7,11 @@
   <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E1DCC9&center=true&vCenter=true&width=500&lines=Mobile+Developer+-+Frontend" alt="Typing SVG" /> </p>
 </p>
 
-- 👨🏼‍🦱 i'm 19 years old Mobile Developer From Indonesia
-- 💻 **FrontEnd**
-- 🌱 Currently studying **Kotlin Native** and **Retrofit** 
-- 🎯 My goal is to become a full-stack developer.
-- ⚡ My hobbies are exercising, eating, and hanging out.
+- i'm 19 years old Mobile Developer From Indonesia
+- Design UI/UX 
+- Currently studying **Kotlin Native** and **Retrofit** 
+- My goal is to become a full-stack developer.
+- My hobbies are exercising, eating, and hanging out.
 
 
 # 💻 Tech Stack:
